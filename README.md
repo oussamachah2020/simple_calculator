@@ -1,2 +1,3 @@
 # simple_calculator
-Simple calculator with C
+Simple calculator in C and C++
+
